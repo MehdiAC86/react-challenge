@@ -1,0 +1,55 @@
+[
+    {
+        "id" : 0,
+        "title" : "Samsung Galaxy A32",
+        "description" : "Le Samsung Galaxy A32 5G est le modèle milieu de gamme le plus abordable de la marque. Il embarque le SoC Dimensity 720G, couplé à 4, 6 ou 8 Go de RAM et 64 ou 128 Go de stockage, extensible via microSD. A l'arrière se trouvent 4 capteurs photos : le principal à 48 mégapixels, l'ultra grand-angle à 8 mégapixels, un objectif macro de 5 mégapixels et un mode portrait de 2 mégapixels. Il possède une batterie de 5000 mAh compatible charge rapide (15 W). Il est également disponible en version 4G.",
+        "price" : "190",
+        "image" : "./images/SamsungGalaxyA32.jpg",
+        "category" : "Smartphone"
+    },
+
+    {
+        "id" : 1,
+        "title" : "Samsung Galaxy S5",
+        "description" : "Le Galaxy S5 varie de son prédécesseur, mais pas tant que cela. De fait, il est à peine plus grand que son prédécesseur (142 x 72,5 x 8,1 mm), légèrement plus épais, et un peu plus lourd avec 145 grammes sur la balance. Par contre en termes de design pur, Samsung prend un risque. Exit le plastique brillant que l’on connaît depuis 2010, et pas d’imitation cuir plus ou moins appréciée selon les goûts : non non non, le Coréen a opté pour un plastique poinçonné, percé de petits trous sur un plastique légèrement mou, pas désagréable au toucher au demeurant.",
+        "price" : "120",
+        "image" : "/images/Samsung Galaxy S5",
+        "category" : "Smartphone"
+    },
+
+    {
+        "id" : 2,
+        "title" : "Samsung Galaxy S8",
+        "description" : "Le Samsung Galaxy S8 est un smartphone de la firme coréenne Samsung, il embarque un processeur Exynos 8895 en Europe ou le Snapdragon 835 dans le reste du monde et un écran sans bordures de 5,8 pouces.",
+        "price" : "200",
+        "image" : "/images/Samsung Galaxy S8",
+        "category" : "Smartphone"
+    },
+
+    {
+        "id" : 3,
+        "title" : "Samsung Galaxy S20",
+        "description" : "Le Samsung Galaxy S20 est un smartphone haut de gamme de Samsung annoncé en février 2020 et disponible début mars 2020 qui succède au Galaxy S10. Il est équipé d'un écran AMOLED de 6,2 pouces certifié HDR10+, d'un triple capteur photo polyvalent entre ultra grand-angle et zoom 3X (30X en hybride) et d'un processeur Exynos 990 gravé en 7 nm épaulé par 8 Go de RAM (12 Go en version 5G). Il est disponible en version 4G ou 4G+5G et avec 128 Go de stockage UFS 3.0.",
+        "price" : "225",
+        "image" : "/images/Samsung Galaxy S20",
+        "category" : "Smartphone"
+    },
+
+    {
+        "id" : 4,
+        "title" : "Samsung Galaxy Tab",
+        "description" : "La Samsung Galaxy Tab A (2018) est une tablette d'entrée de gamme annoncée par la marque coréenne en février 2019. Elle est équipé d'un écran de 10,1 pouces avec une définition Full HD+, d'un SoC Exynos 7904 épaulé par 2 ou 4 Go de RAM et une batterie de 6150 mAh.",
+        "price" : "160",
+        "image" : "/images/Samsung Galaxy Tab",
+        "category" : "Tablette tactile"
+    },
+
+    {
+        "id" : 5,
+        "title" : "PC Portable Lenovo",
+        "description" : "Avec son écran 15,6 son processeur Celeron N4020 sa mémoire de 4 Go et son stockage de 256 Go ce PC portable offre des performances fiables pour répondre à vos besoins informatiques quotidiens.",
+        "price" : "600",
+        "image" : "/images/PC Portable Lenovo",
+        "category" : "PC Portable"
+    }
+    ]
